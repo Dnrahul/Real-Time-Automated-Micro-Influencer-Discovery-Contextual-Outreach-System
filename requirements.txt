@@ -1,0 +1,42 @@
+# 
+# Core Framework
+# 
+fastapi
+uvicorn
+pydantic
+
+# 
+# Discovery & Data
+# 
+google-api-python-client
+requests
+httpx
+
+# 
+# NLP & Machine Learning
+# 
+nltk
+scikit-learn
+numpy
+
+# 
+# Outreach & Templating
+# 
+jinja2
+
+# 
+# UI
+# 
+streamlit
+plotly
+pandas
+
+# 
+# Configuration
+# 
+python-dotenv
+
+# 
+# Utilities
+# 
+python-dateutil
